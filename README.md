@@ -1,3 +1,6 @@
 # Soft-CP: A Credible and Effective Data Augmentation for Semantic Segmentation of Medical Lesions
 
-https://arxiv.org/abs/2203.10507
+paper: https://arxiv.org/abs/2203.10507
+
+result:
+https://github.com/ApolloDPP/Soft-CP/blob/main/figure1.svg
