@@ -3,4 +3,4 @@
 paper: https://arxiv.org/abs/2203.10507
 
 result:
-https://github.com/ApolloDPP/Soft-CP/blob/main/figure1.svg
+![image](https://github.com/ApolloDPP/Soft-CP/blob/main/figure1.svg)
